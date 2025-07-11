@@ -1,6 +1,6 @@
-a
-b
-c
-d
-e
-f
+apple
+banana
+cherry
+desk
+echo
+father
