@@ -1,5 +1,3 @@
 #section1
-content 1 modified by master
 
 #section2
-content2 by feature
